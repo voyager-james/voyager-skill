@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page Copy"
+  short_description: "Interview-first landing page copy with form spec"
+  default_prompt: "Use $landing-page to ask me about the page and traffic, then write the landing page copy."

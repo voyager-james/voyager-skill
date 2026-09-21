@@ -1,0 +1,37 @@
+{
+  "name": "voyager-copy",
+  "version": "0.1.0",
+  "description": "Interview-first copywriting skills for Facebook ads, emails and newsletters, and landing pages. Asks the right questions for the goal, then writes copy that passes ad-policy and human-voice checks.",
+  "author": {
+    "name": "Voyager Agency"
+  },
+  "license": "Proprietary",
+  "keywords": [
+    "copywriting",
+    "facebook ads",
+    "meta ads",
+    "email",
+    "newsletter",
+    "landing page",
+    "marketing",
+    "interview"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Voyager Copy",
+    "shortDescription": "Interview-first ad, email and landing page copy",
+    "longDescription": "Ask for Facebook ad copy, an email or newsletter, or a landing page, and the agent interviews you first. It asks the goal, audience, offer and format, follows up based on your answers, confirms a summary, then writes the copy using the matching frameworks, Meta ad policy checks and a human-voice linter.",
+    "developerName": "Voyager Agency",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $fb-ad-copy to write Facebook ad copy for my offer",
+      "Use $email-newsletter to write a newsletter for my list",
+      "Use $landing-page to write a landing page for my offer"
+    ],
+    "brandColor": "#0F4C81"
+  }
+}

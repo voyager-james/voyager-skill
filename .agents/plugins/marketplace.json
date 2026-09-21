@@ -1,0 +1,20 @@
+{
+  "name": "voyager-agency",
+  "interface": {
+    "displayName": "Voyager Agency Plugins"
+  },
+  "plugins": [
+    {
+      "name": "voyager-copy",
+      "source": {
+        "source": "local",
+        "path": "./plugins/voyager-copy"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

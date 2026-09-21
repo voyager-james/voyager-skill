@@ -1,0 +1,4 @@
+interface:
+  display_name: "Facebook Ad Copy"
+  short_description: "Interview-first Facebook and Instagram ad copy"
+  default_prompt: "Use $fb-ad-copy to interview me about the goal and audience, then write a full Facebook ad package."

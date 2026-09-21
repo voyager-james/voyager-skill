@@ -1,0 +1,98 @@
+# AI-tell phrases
+# One phrase per line. Matching is case-insensitive and word-bounded.
+# Comment out acceptable phrases or add client-specific signals as needed.
+
+# Overused verbs
+delve into
+delve deeper
+delves into
+leverage
+leveraging
+unlock the power
+unlock your potential
+unleash the power
+unleash your
+harness the power
+embark on
+embark on a journey
+navigate the landscape
+navigate the world
+navigate the complexities
+streamline your
+elevate your
+revolutionize
+revolutionizing
+transform your life
+
+# Filler openers
+in today's world
+in today's fast-paced
+in today's digital
+in today's competitive
+in this digital age
+in the realm of
+in the world of
+when it comes to
+look no further
+buckle up
+let's dive in
+let's dive into
+let's explore
+dive deep
+deep dive into
+
+# Weak hedges
+it's important to note
+it's worth noting
+it's worth mentioning
+it should be noted
+that being said
+
+# Cliches and AI signatures
+game-changer
+game-changing
+game changer
+cutting-edge
+state-of-the-art
+ever-evolving
+ever-changing
+fast-paced world
+rich tapestry
+tapestry of
+treasure trove
+plethora of
+myriad of
+vast array
+wide array
+seamlessly
+seamless integration
+holistic approach
+synergize
+synergy
+
+# Closer phrases
+in conclusion
+to sum up
+to summarize
+in summary
+
+# AI confessions and chatbot tells
+as an AI
+as a language model
+I hope this helps
+I'd be happy to help
+
+# Marketing fillers
+are you tired of
+are you struggling with
+the secret to success
+the key to success
+at its core
+in essence
+
+# Empty intensifiers
+truly remarkable
+truly transformative
+incredibly powerful
+absolutely essential
+profoundly impact

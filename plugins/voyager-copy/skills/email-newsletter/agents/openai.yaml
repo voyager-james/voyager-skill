@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email and Newsletter"
+  short_description: "Interview-first emails, newsletters and sequences"
+  default_prompt: "Use $email-newsletter to ask me what I need, then write the email, newsletter or sequence."

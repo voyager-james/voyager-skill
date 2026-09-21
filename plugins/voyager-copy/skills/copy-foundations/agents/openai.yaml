@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copy Foundations"
+  short_description: "Shared interview rules, copy principles and human-voice lint"
+  default_prompt: "Use $copy-foundations to lint and humanize this copy before I publish it."
